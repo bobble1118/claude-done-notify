@@ -1,0 +1,1 @@
+{ "name": "done-notify", "version": "0.1.0", "description": "Windows toast when Claude Code finishes a turn, showing the session name." }

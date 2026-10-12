@@ -1,0 +1,5 @@
+{
+  "name": "done-notify",
+  "owner": { "name": "woeyd" },
+  "plugins": [{ "name": "done-notify", "source": "./" }]
+}
